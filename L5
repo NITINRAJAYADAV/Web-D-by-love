@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="background-color: aqua;"> 
+        This is my 1st Heading <br>HARI HARI
+    </h1>
+    <h2 style="color: brown;">
+        This is my 2nd Heading
+    </h2>
+    <h3> This is my 3rd Heading </h3>
+    <h4> This is my 4th Heading</h4>
+   <h5> This is my 5th Heading</h5>
+   <h6> This is my 6th Heading</h6>
+   <P>THIS MY PARA </P>
+   <a href="https://www.google.com/">CLICK HERE</a>
+   <ul>
+    <li>Panni garam karo</li>
+    <li>chai patti dalo</li>
+    <li>add some  milk</li>
+   </ul>
+  <ol>hari
+    <li>water</li>
+    <li>water 2</li>
+    <li>water3</li>
+  </ol>
+<table>
+    <tr><td> Sr no</td>
+        <td> Name</td>
+        <td> Class</td>
+    </tr>
+    <tr><td> 1</td>
+        <td> 2</td>
+        <td> 3</td>
+    </tr>
+    <tr><td> 1</td>
+        <td> 2</td>
+        <td> 3</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+    </tr>
+</table>
+<img alt="Radha Krishna at Iskcon Vrindavan.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Radha_Krishna_at_Iskcon_Vrindavan.jpg/220px-Radha_Krishna_at_Iskcon_Vrindavan.jpg" decoding="async" width="220" height="332" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Radha_Krishna_at_Iskcon_Vrindavan.jpg/330px-Radha_Krishna_at_Iskcon_Vrindavan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Radha_Krishna_at_Iskcon_Vrindavan.jpg/440px-Radha_Krishna_at_Iskcon_Vrindavan.jpg 2x" data-file-width="2040" data-file-height="3076">
+
+
+<p>Hari is among the primary epithets of the Hindu preserver deity Vishnu, meaning 'the one who takes away' (sins). It refers to the one who removes darkness and illusion, the one who removes all obstacles to spiritual progress. The name Hari also appears as the 650th name of Vishnu in the Vishnu Sahasranama of the <b>Mahabharata</b>Mahabharata and is considered to be of great significance in Vaishnavism
+</p>
+<address> <a href="mailto:12117073@nitkkr.ac.in">12117073@nitkkr.ac.in</a><br>
+    <a href="tel:7906027223">(+91) 8504985534</a></address>
+
+    <article class="HARI">
+        <h1>Weather forecast for Seattle</h1>
+        <article class="day-forecast">
+            <h2>03 March 2018</h2>
+            <p>HARI</p>
+        </article>
+        <article class="day-forecast">
+            <h2>04 March 2018</h2>
+            <p>Periods of rain.</p>
+        </article>
+        <article class="day-forecast">
+            <h2>05 March 2018</h2>
+            <p>Heavy rain.</p>
+        </article>
+    </article>
+    <figure>
+        <figcaption>Listen to the T-Rex:</figcaption>
+        <audio
+            controls
+            src="https://wynk.in/music/album/radha-krishna-bhajan/rm_RDC1662">
+                <a href="https://wynk.in/music/album/radha-krishna-bhajan/rm_RDC1662">
+                    Download audio
+                </a>
+        </audio>
+    </figure>
+
+</body>
+</html>
