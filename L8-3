@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<form><br> <br>
+    <label for="text field">Text field</label>
+ <input type="text" name="text field " id="text field">
+<br> <br>
+ <label for="text field">Button</label>
+ <input type="button" name="text field " id="Button" value="Units" >
+ <br> <br> <label 
+ 
+ for="text field">Male</label>
+ <input type="Radio"  id="Radio" value="Radio" >
+ <label 
+ 
+ for="text field">Female</label>
+ <input type="Radio" id="Radio" value="Radio" >
+ <br> <br> <label 
+ 
+ for="text field">Hindi</label>
+ <input type="checkbox"  name="File select 1" id="File select 1" >
+ <label 
+ for="text field">English</label>
+ <input type="checkbox"  name="File select 1" id="File select 1" >
+ 
+ <br> <br>
+<label for="File select 1">Upload</label>
+<input type="file" name="File select 1" id="File select 1">
+
+
+<input type="image" name="Radha-and Krishna-love-Krishna.jpg" id="Radha-and Krishna-love-Krishna.jpg" alt="Click here" src="Radha-and Krishna-love-Krishna.jpg" height="100px" width="100px">
+ <br> <br>
+
+ <label for="password">Enter password</label>
+<input type="password" name="password " id="password">
+  <br> <br> 
+  <label for="date">date</label>
+<input type="date"name="Date picker " id="Date picker">
+<br> <br>
+<label for="datetime">datetime</label>
+<input type="datetime"name="datetime picker " id="datetime picker">
+
+
+
+</form>
+
+
+</body>
+</html>
