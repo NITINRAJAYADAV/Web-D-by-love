@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<div>
+<div><h1>NITIN RAJA YADAV</h1>
+    <P> Contact: <a href="tel : +918504985534">+918504985534 </a> </P>
+<P> Gmail: <a href="https://mail.google.com/mail/nitinrajayadav">nitinrajayadav@gmail.com</a> </P>
+<P> LinkedIn: <a href="https://www.www.linkedin.com/in/nitinrajayadav">https://www.www.linkedin.com/in/nitinrajayadav</a> </P>
+<P> GitHub: <a href="https://github.com/NITINRAJAYADAV">github.com/NITINRAJAYADAV</a> </P>
+</div>
+</div>
+
+<table>
+    <tr>
+        <td> <img src="NITIN PHOTO.jpg" alt="NITIN PHOTO.jpg" width="110" height="120">  </td>
+        <td>
+            As a dedicated and ambitious student, I am eager to embark on a career as a versatile software engineer. I possess a strong foundation in industrial engineering and production. Detail-oriented and proactive, I thrive in fast-paced IT and software environments, always striving to deliver exceptional results. With a commitment to continuous learning, I am constantly honing my technical expertise and problem-solving skills to drive innovation and contribute to the success of organisations. Fueled by my passion for cutting-edge technologies, I am determined to make a meaningful impact in the field of IT and software development.
+            </td>
+        
+    </tr>
+</table>
+<section>
+    <h2>Education</h2>
+    <ul>
+        <li>Bachelor of Technology in Production and Industrial Engineering at the National Institute of Technology, Kurukshetra</li>
+        <li>Shiv Jyoti Senior Secondary School, Kota</li>
+    </ul>
+</section>
+<section>
+<h2>Work Experience</h2>
+<h3>Additional secretary</h3>
+<p>National Service Scheme (NSS), NIT Kurukshetra</p>
+<ul>
+    <li> Overseeing various NSS activities, organizing community service projects, managing volunteer teams, and maintaining communication with
+        stakeholders.</li>
+
+</ul>
+
+
+<h3>TEDxNITKKR</h3>
+<p>NIT Kurukshetra</p>
+<ul>
+    <li>a significant contributor to the network of sponsors and organisations</li>
+</ul>
+
+<h3>Filo and Chegg </h3>
+<p>Online tutor</p>
+<ul>
+    <li> Jee advanced, Neet, Jee mains, and other competitions exam question solvers. <br>
+         4.7/5 star rating at Filo 
+        </ul>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>C++</li>
+        <li>DSA</li>
+        <li>html</li>
+        <li>Css</li>
+        <li>SQL</li>
+        <li>PYTHON</li>
+        <li>Basic operation reaserch</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Achievements</h2> 
+    <ul>
+        <li>147‑Internation rank In 20 countries, 18th SOF National science Olympiad</li>
+        <li>AIR 606 and zonal rank 146, Tallentex</li>
+        <li>NDA EXAMINATION, 4 times qualifed</li>
+        <li>2nd stage qualifed, 18th SOF Internation Mathematics and National science Olympiad</li>
+        <li>2nd stage qualified, NSTSE, National level science talent search examination </li>
+        <li>1st prize Cyclothon, Confluence’22</li>
+    </ul>
+</section>
+
+
+<section> <h2> Projects</h2>
+    <ul> <h3>Diwali-sales-analysis</h3>
+    <li>
+       Analysed Diwali sales data using SQL and Python. <br>
+        •Extracted, transformed, and loaded data with SQL queries.<br>
+        •Utilised Python's data analysis libraries for in-depth analysis.<br>
+        •Created visualisations using Matplotlib and Seaborn.<br>
+        •Derived valuable insights and made recommendations based on their findings.<br>
+        •Proficient in SQL, Pandas, Matplotlib, and Jupyter Notebook.
+        </li>
+        <p>GitHub Link <a href="https://github.com/NITINRAJAYADAV/Diwali-sales-analysis">https://github.com/NITINRAJAYADAV/Diwali-sales-analysis</a></p>
+        
+    </ul>
+
+</section>
+
+
+<section>
+    <h2>Organisation</h2>
+    <ul>
+        <li>National Service Scheme </li>
+        <li>Street Under Construction Crew</li>
+        <li>Industry and Entrepreneurship Cell</li>
+        <li>Hindi Literature and debating club </li>
+        
+    </ul>
+</section>
+
+<section> <h2> Frequently Asked Question:</h2>
+
+<DEtails>
+    <SUMMary>
+      
+What are the other technical skills & Soft skills?</SUMMary>
+<p>
+
+
+    • Soft skills include leadership, management, public relations, time management, teamwork, and presentation abilities, as well as report writing.<br>
+    • Technical Skills: Making videos and designing posters
+</p>
+
+
+</DEtails>
+
+
+
+
+
+</section>
+
+
+
+
+
+<footer> 
+    <p>&#169; 2023 NITIN RAJA YADAV. All rights reserved.</p>
+</footer>
+
+
+
+</body>
+</html>
