@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form >
+        <label for="Email ID">Enter Email Id</label>
+        <input type="text" id="Email ID" placeholder="Hari Hari">
+        
+<br> 
+<br>
+<label for="Password"> Enter Password</label>
+        <input type="text" id="Password" placeholder="Radhe Radhe">
+        <br>
+        <br>
+
+        <input type ="Submit" value="Click here">
+
+        <button>click here
+        </button>
+        
+        
+
+    </form>
+
+
+
+
+</body>
+</html>
