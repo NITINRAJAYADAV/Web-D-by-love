@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Job Application</h2>
+<form >
+    <label for="Name">Name</label> <br> 
+<input type="name">
+<br><br>
+
+<Label>Email</Label> <br>
+<input type="Email" name="Email" id="Email">
+
+<br><br>
+
+<Label>Phone no</Label> <br>
+<input type="Phone no" name=" Phone no " id="Phone no">
+<br><br>
+
+<Label>Resume</Label> <br>
+<input type="file" name="Resume" id="Resume">
+<br><br>
+
+<label>Experence(Years)</label> <br>
+<input type="number" name=" Counter" id="Counter" min="0" max="99">
+
+<fieldset>
+
+<legend>Skills</legend>
+
+<Label>HTML</Label> <br>
+<input type="checkbox" name="checkbox1" id="checkbox1">
+
+<br><br>
+
+<Label>Css</Label> <br>
+<input type="checkbox" name=" checkbox2 " id="checkbox2">
+<br><br>
+
+<Label>Java script</Label> <br>
+<input type="checkbox" name="checkbox4" id="checkbox3">
+<br><br>
+ 
+</fieldset>
+<br>
+
+<label for="Education type">Highest Education</label>
+<select name="Education type" id="Education type">
+<option value="10th">10th</option>
+<option value="12th">12th</option>
+<option value="Btech">Btech</option>
+</select>
+ <br> <br>
+
+ <fieldset>
+    <legend>Availability</legend>
+    <label for="fullTime">Full time</label>
+    <input type="radio" id="fullTime" name="availability" >
+    <br>
+    <label for="intern">Intern</label>
+    <input type="radio" id="intern" name="availability" >
+  </fieldset>
+  
+
+<Fieldset> 
+ <label for="textarea">Additional comment</label> <br>
+    <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
+
+
+</Fieldset>
+ 
+<input type="submit" value="Submit Application">
+
+
+</form>
+
+
+
+</body>
+</html>
