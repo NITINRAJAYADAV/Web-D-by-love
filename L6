@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head> 
+<body>
+    <!-- <div>
+    <a href="">click here</a>
+    <P id="P1"></P>
+<ARTICLE id="ARTICLE1"></ARTICLE>
+<section id="hari"></section>
+<sectionp></sectionp>
+<p></p>
+<p></p>
+</div> -->
+
+
+
+
+<div style="background-color: brown;"> This is my 1st div</div>
+<span style="background-color: rgb(232, 215, 215);">This is my 1st div</span>
+
+
+<ul>
+    <li>
+        <p><a href="http://www.google.com">A</a></p>
+    </li>
+    <li>
+        <p><a href="B"></a></p>
+    </li>
+    <li>
+        <p><a href="C"></a></p>
+    </li>
+    <li>
+        <p><a href="D"></a></p>
+    </li>
+    <li>
+        <p><a href="E"></a></p>
+    </li>
+    <li>
+        <p><a href="F"></a></p>
+    </li>
+    <li>
+        <p><a href="http://www.google.com"></a>G</p>
+    </li>
+</ul>
+
+<nav>
+    <ul>
+        <li></li>
+        <a href="a">a</a>
+        <li></li>
+        <a href=""></a>
+        <li></li>
+        <a href=""></a>
+        <li></li>
+        <a href=""></a>
+    </ul>
+</nav>
+
+
+
+
+</body>
+</html>
