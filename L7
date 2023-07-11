@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <table style="background-color: aquamarine;" border="1">
+<thead>
+     <th>student Id</th>
+     <th>Student Name</th>
+     <th>Gender</th>
+     <th>Age</th>
+</thead>
+<tbody> 
+    <tr>
+     <td>12117055</td>
+<td>Hemanat</td>
+<td>Male</td>
+<td rowspan="3">25</td>
+</tr>
+
+<tr>
+    <td>12117001</td>
+<td>Shaurya</td>
+<td>Male</td>
+
+</tr>
+
+<tr>
+    <td>12117073</td>
+<td>Pratham</td>
+<td>Male</td>
+
+</tr>
+
+<tr style="color: crimson;">
+    <td>12117073</td>
+<td colspan="3
+">Nitin Raja Yadav</td>
+
+
+</tbody>
+
+    </table>
+    
+</body>
+</html>
