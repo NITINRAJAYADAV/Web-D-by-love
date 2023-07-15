@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<img src="SHREE RADHA.jpg" alt="Logo Image" width=" 120px"  height="140px"><br> <br>
+<audio src="Jai_Jai_Narayan_Narayan_Hari_Hari_2_Satyajeet_Mehmood_Hari_DarshanMP3.mp3" controls></audio>
+<br> <br>
+<video src="SHREE KRISHNA.mp4" height="500" controls></video>
+<br><br>
+
+<iframe src="../L10/RESUME.html" frameborder="500" height="720" width="800"></iframe>
+<br> 
+<iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe>
+<!-- watch?v= to embed/ -->
+
+</body>
+</html>
