@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<header> <h1>
+    Welcome to Veducation
+</h1></header>
+
+
+<br>
+<table> <tr> 
+    <td> <img src="SHREE RADHA.jpg" alt="Logo Image" width=" 120px"  height="140px"></td>
+<td>
+    <nav>
+        <ul>
+            <li> <a href="#Roadmap">Roadmap videos</a> </li>
+            <li><a href="#Sole series">Sole series</a></li>
+            <li> <a href="#rahasyam ramayan">rahasyam ramayan</a></li>
+            <li><a href="#Live QnA">Live QnA</a></li>
+            <li><a href="#Sanskrit series">Sanskrit series</a></li>
+        </ul>
+    </nav>
+</td>
+</tr>
+</table>
+
+<section>
+<H2>About Veducation</H2>
+<p>Learn about vedic science, history, philosophy & culture in details. With Prateeik Prajapati, who has been reading and researching collective psychologies of world civilisations since last 7 years.
+Now he has decided to share all that invaluable knowledge with the world through his talks and sessions in schools, colleges, corporates, villages & online through Youtube & social media.</p>
+</section>
+<section><h2> Additional Media</h2>
+    <table>
+        <tr>
+            <td><audio src="Jai_Jai_Narayan_Narayan_Hari_Hari_2_Satyajeet_Mehmood_Hari_DarshanMP3.mp3" controls></audio></td>
+            <td><video src="SHREE KRISHNA.mp4" height="500" controls></video></td>
+        </tr>
+    </table></section>
+
+
+<section id="Roadmap">
+    <h2>Roadmap Videos</h2>
+    <table> <tr>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    </tr>
+
+    <tr>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+</tr>
+
+</table>
+
+
+
+
+
+</section>
+
+
+<section id="Sole series">
+    <h2>Roadmap Videos</h2>
+    <table> <tr>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    </tr>
+
+    <tr>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+</tr>
+
+</table>
+
+
+
+
+
+</section>
+
+
+
+
+
+
+
+<section id="rahasyam ramayan">
+    <h2>Roadmap Videos</h2>
+    <table> <tr>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    </tr>
+
+    <tr>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+</tr>
+
+</table>
+
+
+
+
+
+</section>
+
+
+
+<section id="Live QnA">
+    <h2>Roadmap Videos</h2>
+    <table> <tr>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    </tr>
+
+    <tr>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+</tr>
+
+</table>
+
+
+
+
+
+</section>
+
+<section id="Sanskrit series">
+    <h2>Roadmap Videos</h2>
+    <table> <tr>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+        <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    </tr>
+
+    <tr>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+    <td><iframe src="https://www.youtube.com/embed/0oe7CF-TY_U" frameborder="0"></iframe></td>
+</tr>
+
+</table>
+
+
+
+
+
+</section>
+
+
+
+
+
+
+<footer> 
+    <p>&#169; 2023 NITIN RAJA YADAV. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
