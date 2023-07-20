@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+<style> 
+
+
+
+p{
+    font-style: italic;
+    font-size: 20px;
+ font-family: 'Times New Roman', Times, serif;
+
+ font-weight: 900 ;
+
+/* 1px=1.96inch */
+
+
+}
+#firstpara{
+    background-color: red;
+}
+  #secondpara{
+    color: rgb(rgb(154, 50, 50), rgb(61, 98, 61), rgb(87, 87, 131));
+  }
+ .firstclass{
+    background-color: #47ab62
+    ;
+ }
+ 
+</style>
+
+</head>
+<body>
+<h2> Radhe Radhe </h2>    
+
+<p id="firstpara">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid vero quidem omnis rem eveniet incidunt. Ipsum, sint fugiat. Saepe, autem.</p>
+
+
+<p id="secondpara">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, et reprehenderit voluptate magni vel dolore repellendus culpa voluptatum accusamus dolorum dicta, omnis rerum. Pariatur, ratione sit. Sequi ipsam quia nostrum?</p>
+ 
+
+<p id="threepara "> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum saepe, ipsum ad tenetur sequi, corrupti quisquam quo nesciunt sed ipsam voluptate labore enim nobis incidunt beatae voluptatibus vel unde. Illo modi laborum nobis blanditiis recusandae dolor natus corporis temporibus tempore?</p>
+
+<p class="firstclass"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, ratione accusantium? Harum nostrum quae voluptates. Animi iusto vel quidem nulla deserunt, amet pariatur totam velit.</p>
+
+
+
+
+
+</body>
+</html>
