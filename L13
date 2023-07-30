@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Hari.css">
+<style>
+    p{
+        background-color: aqua ;
+    }
+h1{
+    color: blue;
+}
+
+
+</style>
+
+
+</head>
+<body>
+    
+<h1> Radhe Radhe Jai Shree Krsihna</h1>
+
+<!-- inline css -->
+
+
+ <p style="background-color: chartreuse;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique corporis culpa necessitatibus ut! Qui recusandae, odio culpa voluptatum praesentium autem laboriosam ullam minus corrupti repellat assumenda temporibus consectetur doloremque ab.</p>
+
+<p style="background-color: aqua;"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nihil dolores cum ducimus numquam sed repudiandae earum saepe rem laboriosam? Sint saepe quasi accusamus? Suscipit quos quidem dolore laborum perferendis.</p>
+ <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa repellendus velit eaque repellat accusamus corporis esse alias sapiente debitis exercitationem modi, hic autem quibusdam quas officia saepe quam odit magni.</p>
+
+
+
+<footer> I am Hari Dash</footer>
+
+</body>
+</html>
