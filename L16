@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+        .box{
+            width: 100px;
+height: 300px;
+border: 1px solid darkblue ;
+padding: 100px;
+
+
+        }
+
+        span{
+            border: 1px solid green;
+            display: block;
+        }
+
+        /* div{ 
+            border: 1px solid red;
+            width: 300px;
+            height:  300px;
+        }*/
+    </style>
+</head>
+
+<body>
+
+
+    <div class="box">Bolo radhe radhe</div>
+    <div>Bolo jai shree ram</div>
+    
+
+<span> this is hari das</span>
+<span> this hari dash 2.0</span>
+
+</body>
+</html>
