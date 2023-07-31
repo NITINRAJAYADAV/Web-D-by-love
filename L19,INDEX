@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+*{
+    margin: 0;
+
+padding: 0;}
+
+.box1{
+    background: 1px solid blue;
+    font-size: 100px;
+}
+        .container{
+            border: 2px solid blue;background-color: aqua;
+            height: 100vh;
+        }
+/* .box{
+    border: 2px solid red;
+    width: 50%;
+}
+.parent{
+    border: 1px solid blue;
+    background:  palegreen;
+}
+.child{
+    border: 1px solid ghostwhite;
+    background-color: aqua;
+    width: 50%;
+} */
+
+    </style>
+</head>
+<body>
+    
+<!-- <div class="box">
+
+    Radhe radhe
+</div> -->
+
+<!-- <div class="parent"> <div class="child"> CHILD</div></div> -->
+
+
+<!-- <div class="container"> Hari hari</div>
+
+
+<div class="box1"> Hari Hari</div> -->
+
+
+
+
+</body>
+</html>
